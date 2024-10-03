@@ -33,3 +33,8 @@ Clone the repository to your local machine:
 ```sh
 git clone https://github.com/your-username/micro-services.git
 cd micro-services
+
+### Contact
+For any inquiries or issues, please contact [abusalehmd2@gmail.com].
+
+Feel free to explore and enhance democrud!
